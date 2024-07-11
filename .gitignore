@@ -2,3 +2,5 @@
 .user.yml
 /logs
 logs
+/google-cloud-sdk
+.DS_Store
